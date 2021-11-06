@@ -13,6 +13,8 @@
 - made a changes on css to class hero.
 - added a aside element to side content.
 - added a footer element. 
+- Made the HTML element clean and organized, so it's easiler to read.
+- Removed all the div and added semantic HTML.
 
 **Screenshot**
 
