@@ -21,5 +21,5 @@
 ![](assets/images/screenshot.png)
 
 **Links**
-https://github.com/kingkushal11/Lost-In-Horizon-HW1
-https://kingkushal11.github.io/Lost-In-Horizon-HW1/
+- https://github.com/kingkushal11/Lost-In-Horizon-HW1
+- https://kingkushal11.github.io/Lost-In-Horizon-HW1
